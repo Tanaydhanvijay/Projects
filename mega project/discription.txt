@@ -1,0 +1,2 @@
+Created a modular voice assistant that accepts voice commands to open websites, play music, fetch real-time news via NewsAPI,
+ and interact with LLMs using Together AI. Integrated speech_recognition, pyttsx3, requests, and openai.
